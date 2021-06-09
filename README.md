@@ -85,8 +85,10 @@ Very similar to the very first visualization, the was also one of the early crea
 Overall, the analysis from the Citibike Bikeshare Data from NYC was very beneficial for analysis on applying that same kind of business in Des Moines. I believe Des Moines has very good potential for success. It was decided that bikeshare locations could be prioritized based off popular commuting areas between work and home as well as fun places that tourists could enjoy or those same locals during the weekends. More males are likely to subscribe to the business if it replicates trends in NYC; however, an attempt could be made to reach out to females by providing more feminine-appealing bike options that may intrigue them to be more active than they are in NYC.
 
 
-Two additional visualizations I would perform with the current dataset are:
+<b>Two additional suggested visualizations for further analysis with the current dataset are:</b>
+1. I would create a calculated column that would check if the lat/longs for the start location and end location are the same to see the count of trips that are round trips vs one-way. This could also be done by seeing if the Starting Station Id and Ending Station Id's are equal. I believe NYC would have way more one-trip riders than round trip if the conclusions made from the above visualizations are accurate.
 
+2. 
 
-Vizualization Bonus - type of bikes (do they appeal more to men than women and can you increase women count by adding more feminine-oriented bikes 
-Visualization Bonus 2 - more men than women in NYC?
+<b>One visualization that would be a bonus if the data was available would be:</b>
+1. The type of bikes i.e bmx, EV, women cruiser, mountain bike, etc to is which appeals more to men than women. If there is a deficient supply of bikes that women are more likely to rent, adding more inventory of those types of bikes could help boost sales numbers for females. Bike color with this data could also be beneficial.
