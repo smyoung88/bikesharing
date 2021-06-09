@@ -14,7 +14,7 @@ The purpose of the analysis on this repository is to convince investors that a b
   <img src="https://github.com/smyoung88/bikesharing/blob/main/images/start_1.png" title="NYC Bikeshare Starting Locations">
 </p>
 <br>
-explanation goes here
+This map visualization shows where the starting locations are for bikeshare rides and are colored and sized by the count at each station. One observation was that there may have been a higher count of riders at starting locations that had higher amounts of tourism at them. This is one of the original visualizations created early on in the analysis and a key indicator at where the first locations should be positioned in Des Moines. 
 
 ### How long do they ride?
 
@@ -83,3 +83,8 @@ explanation goes here
 
 
 ## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+
+
+
+Vizualization Bonus - type of bikes (do they appeal more to men than women and can you increase women count by adding more feminine-oriented bikes 
+Visualization Bonus 2 - more men than women in NYC?
