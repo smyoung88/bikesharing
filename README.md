@@ -34,7 +34,7 @@ New York City does not have a bikeshare business where its riders are on their b
   <img src="https://github.com/smyoung88/bikesharing/blob/main/images/gender_bias_3.png" title="NYC Male vs Female Rider Distribution">
 </p>
 
-This graph shows that there are a lot more males riding bikes around NYC than females. As an outsider that is not familiar with the area, one might wonder if there are more males than females in NYC and that is where there is such a big difference. If not, investors might consider how to be more inclusive of females to increase their numbers and improve the business opportunity when applied to Des Moines.
+This graph shows that there are a lot more males riding bikes around NYC than females. Female riders are in blue, male riders are in orange, and riders whos genders were unknown are in red. As an outsider that is not familiar with the area, one might wonder if there are more males than females in NYC and that is where there is such a big difference. If not, investors might consider how to be more inclusive of females to increase their numbers and improve the business opportunity when applied to Des Moines.
 
 ### What are the peak hours?
 
@@ -43,8 +43,8 @@ This graph shows that there are a lot more males riding bikes around NYC than fe
  <br>
   <img src="https://github.com/smyoung88/bikesharing/blob/main/images/peak_hours_4.png" title="NYC Bikeshare Peak Hours">
 </p>
-<br>
-explanation goes here
+
+The heatmap above shows the count of riders by the time of day and the day of the week. The darker colors represent higher counts as seen on the legend, and lighter yellow colors represent less traffic of riders. As mentioned above, it appears the bikeshare business in NYC likely caters to the working community for their source of transportation to and from work. Although areas might have higher traffice with tourism in those areas, the majority of traffic shown on the bikes is during the commuting hours of the day during the week. Weekends tend to be more populated on bikes during the days as expected when peopl are going out to have some fun!
 
 ### Are peak hours the same for males and females?
 
