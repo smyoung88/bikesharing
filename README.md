@@ -58,5 +58,25 @@ explanation goes here
 <br>
 explanation goes here
 
+### Who is subscribing?
+
+<p align="center">
+  <b>NYC Bikeshare Subscribers vs Customers</b>
+ <br>
+  <img src="https://github.com/smyoung88/bikesharing/blob/main/images/usertype_8.png" title="NYC Bikeshare Subscribers vs Customers">
+</p>
+<br>
+explanation goes here
+
+### Where do bikers end up?
+
+<p align="center">
+  <b>NYC Bikeshare Ending Locations</b>
+ <br>
+  <img src="https://github.com/smyoung88/bikesharing/blob/main/images/usertype_9.png" title="NYC Bikeshare Ending Locations">
+</p>
+<br>
+explanation goes here
+
 
 ## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
