@@ -57,9 +57,8 @@ The heatmap above shows the count of riders by the time of day and the day of th
   <img width="45%" height="45%" src="https://github.com/smyoung88/bikesharing/blob/main/images/peak_female_6.png" title="female_peak">
   <img width="53%" height="53%" src="https://github.com/smyoung88/bikesharing/blob/main/images/peak_male_7.png" title="male_peak">
 </p>
-<br>
 
-explanation goes here
+As we dove in further to gender analysis, the above heatmaps tell a similar story that we saw from the previous graphs. There is a higher count of males riding bikes than females overall. The female and male heatmaps are alike where the timing during days of the week vs the number of rides for each follows the same trend.
 
 ### Who is subscribing?
 
@@ -68,8 +67,8 @@ explanation goes here
  <br>
   <img src="https://github.com/smyoung88/bikesharing/blob/main/images/usertype_8.png" title="NYC Bikeshare Subscribers vs Customers">
 </p>
-<br>
-explanation goes here
+
+This heatmap gives a bold statement again on where the majority of the business is coming from. The darker the blue, the higher the number of either subscribers or customers there were for those days. There are significantly more males subscribing to the bikshare service vs females and the amount of one off customer are about the same. Avoiding redundancy from previous visualizations, maybe there is a higher working demographic for males than females, and this is why male numbers are so much higher. Thursdays and Fridays appear to have the highest count of subscribers from males. Maybe there are promos on those days? 
 
 ### Where do bikers end up?
 
@@ -78,12 +77,15 @@ explanation goes here
  <br>
   <img src="https://github.com/smyoung88/bikesharing/blob/main/images/usertype_9.png" title="NYC Bikeshare Ending Locations">
 </p>
-<br>
-explanation goes here
+
+Very similar to the very first visualization, the was also one of the early created visualization in the analysis. The dots on the map represent the areas where bikes are being dropped off and are sized and colored by the total count. When comparing the starting and ending location maps, it looks like most rider ending locations are similar to popular starting locations. Bikers may be renting across town for the inital parts of the day and ending their rides at those initial destinations. At the end of the days, those same riders are likely renting the bikes to return back to where the were originally at the beginning of the day. 
 
 
-## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+## Summary: 
+Overall, the analysis from the Citibike Bikeshare Data from NYC was very beneficial for analysis on applying that same kind of business in Des Moines. I believe Des Moines has very good potential for success. It was decided that bikeshare locations could be prioritized based off popular commuting areas between work and home as well as fun places that tourists could enjoy or those same locals during the weekends. More males are likely to subscribe to the business if it replicates trends in NYC; however, an attempt could be made to reach out to females by providing more feminine-appealing bike options that may intrigue them to be more active than they are in NYC.
 
+
+Two additional visualizations I would perform with the current dataset are:
 
 
 Vizualization Bonus - type of bikes (do they appeal more to men than women and can you increase women count by adding more feminine-oriented bikes 
