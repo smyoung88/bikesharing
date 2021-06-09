@@ -33,8 +33,8 @@ New York City does not have a bikeshare business where its riders are on their b
  <br>
   <img src="https://github.com/smyoung88/bikesharing/blob/main/images/gender_bias_3.png" title="NYC Male vs Female Rider Distribution">
 </p>
-<br>
-explanation goes here
+
+This graph shows that there are a lot more males riding bikes around NYC than females. As an outsider that is not familiar with the area, one might wonder if there are more males than females in NYC and that is where there is such a big difference. If not, investors might consider how to be more inclusive of females to increase their numbers and improve the business opportunity when applied to Des Moines.
 
 ### What are the peak hours?
 
