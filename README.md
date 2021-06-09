@@ -88,7 +88,7 @@ Overall, the analysis from the Citibike Bikeshare Data from NYC was very benefic
 <b>Two additional suggested visualizations for further analysis with the current dataset are:</b>
 1. I would create a calculated column that would check if the lat/longs for the start location and end location are the same to see the count of trips that are round trips vs one-way. This could also be done by seeing if the Starting Station Id and Ending Station Id's are equal. I believe NYC would have way more one-trip riders than round trip if the conclusions made from the above visualizations are accurate.
 
-2. 
+2. A final one I might look at would be a final look into gender analysis. Since this is of particular interest to the investors, I would map both the lat/longs for start and end locations in different visualizations, color the locations by gender, and size them by count of rides. My guess is you would see certain locations where only males start and end at or maybe more populare locations for females.
 
 <b>One visualization that would be a bonus if the data was available would be:</b>
 1. The type of bikes i.e bmx, EV, women cruiser, mountain bike, etc to is which appeals more to men than women. If there is a deficient supply of bikes that women are more likely to rent, adding more inventory of those types of bikes could help boost sales numbers for females. Bike color with this data could also be beneficial.
