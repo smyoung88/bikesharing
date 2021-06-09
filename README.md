@@ -53,9 +53,9 @@ explanation goes here
  <br>
   <img src="https://github.com/smyoung88/bikesharing/blob/main/images/header_peak_5.png" title="header"><br>
 </p>
-<p float="left">
-  <img width="250" height="300" src="https://github.com/smyoung88/bikesharing/blob/main/images/peak_female_6.png" title="female_peak">
-  <img width="250" height="300" src="https://github.com/smyoung88/bikesharing/blob/main/images/peak_male_7.png" title="male_peak">
+<p float="left" align="center">
+  <img src="https://github.com/smyoung88/bikesharing/blob/main/images/peak_female_6.png" title="female_peak">
+  <img src="https://github.com/smyoung88/bikesharing/blob/main/images/peak_male_7.png" title="male_peak">
 </p>
 <br>
 
