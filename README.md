@@ -26,6 +26,37 @@ explanation goes here
 <br>
 explanation goes here
 
+### Who are the main riders?
+
+<p align="center">
+  <b>NYC Male vs Female Rider Distribution</b>
+ <br>
+  <img src="https://github.com/smyoung88/bikesharing/blob/main/images/gender_bias_3.png" title="NYC Male vs Female Rider Distribution">
+</p>
+<br>
+explanation goes here
+
+### What are the peak hours?
+
+<p align="center">
+  <b>NYC Bikeshare Peak Hours</b>
+ <br>
+  <img src="https://github.com/smyoung88/bikesharing/blob/main/images/peak_hours_4.png" title="NYC Bikeshare Peak Hours">
+</p>
+<br>
+explanation goes here
+
+### Are peak hours the same for males and females?
+
+<p align="center">
+  <b>NYC Male vs Female Bikeshare Peak Hours</b>
+ <br>
+  <img src="https://github.com/smyoung88/bikesharing/blob/main/images/header_peak_5.png" title="header"><br>
+  <img src="https://github.com/smyoung88/bikesharing/blob/main/images/peak_female_6.png" title="female_peak">
+  <img src="https://github.com/smyoung88/bikesharing/blob/main/images/peak_male_7.png" title="male_peak">
+</p>
+<br>
+explanation goes here
 
 
 ## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
