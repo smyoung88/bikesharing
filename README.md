@@ -13,7 +13,7 @@ The purpose of the analysis on this repository is to convince investors that a b
  <br>
   <img src="https://github.com/smyoung88/bikesharing/blob/main/images/start_1.png" title="NYC Bikeshare Starting Locations">
 </p>
-<br>
+
 This map visualization shows where the starting locations are for bikeshare rides and are colored and sized by the count at each station. One observation was that there may have been a higher count of riders at starting locations that had higher amounts of tourism at them. This is one of the original visualizations created early on in the analysis and a key indicator at where the first locations should be positioned in Des Moines. 
 
 ### How long do they ride?
@@ -23,8 +23,8 @@ This map visualization shows where the starting locations are for bikeshare ride
  <br>
   <img src="https://github.com/smyoung88/bikesharing/blob/main/images/trip_duration_2.png" title="Length of Time Bikes Are Checked Out in NYC">
 </p>
-<br>
-explanation goes here
+
+New York City does not have a bikeshare business where its riders are on their bikes for a long time. As seen in this graph, the majority of bikes are only used for less than an hour per ride. This business might have more to do with easy commuting around the city rather than taking long scenic joyrides. This presents two different opportunities to the investors on where they can place their bikeshare stations. One may serve the workfoce for commuting around the city during the day and and the other locations could be for leisure and joyriding around scenic routes or any special landmarks that would be worth a nice long ride to. 
 
 ### Who are the main riders?
 
