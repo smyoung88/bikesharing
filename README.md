@@ -56,6 +56,8 @@ explanation goes here
   <img width="300" height="300" src="https://github.com/smyoung88/bikesharing/blob/main/images/peak_female_6.png" title="female_peak">
   <img width="400" height="300" src="https://github.com/smyoung88/bikesharing/blob/main/images/peak_male_7.png" title="male_peak">
 <br>
+
+![](https://github.com/smyoung88/bikesharing/blob/main/images/peak_female_6.png)  |  ![](https://github.com/smyoung88/bikesharing/blob/main/images/peak_male_7.png)
 explanation goes here
 
 ### Who is subscribing?
